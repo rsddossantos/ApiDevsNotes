@@ -1,6 +1,6 @@
 # ApiDevNotes
 
-Funções básicas de api em php estrurado
+Funções básicas de api em php estruturado
 
 EndPoints:<br>
 http://server/api/getall -> GET sem parâmetros;<br>
