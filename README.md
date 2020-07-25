@@ -1,6 +1,6 @@
 # ApiDevNotes
 
-Funções básicas de api para manipular notas na base de dados.
+Funções básicas de api em php estrurado
 
 EndPoints:<br>
 http://server/api/getall -> GET sem parâmetros;<br>
